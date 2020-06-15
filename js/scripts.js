@@ -40,36 +40,36 @@ if (mm < 1 || mm > 12 || mm == 2 && dd > 29) {
 switch (gender) {
   case "male":
  if (Math.ceil(weekday == 0 ); {
- document.getElementById("display").innerHTML= " Your name is " + male[0] + " you were born on " + week[0]);
+ document.getElementById("display").innerHTML=( " Your name is " + male[0] + " you were born on " + week[0]);
 } else if (Math.ceil(weekday == 1 ); {
-  document.getElementById("display").innerHTML=" Your name is " + male[1] + " you were born on " + week[1]);
+  document.getElementById("display").innerHTML=(" Your name is " + male[1] + " you were born on " + week[1]);
 } else if (Math.ceil(weekday == 2 ); {
-  document.getElementById("display").innerHTML" Your name is " + male[2] + " you were born on " + week[2]);
+  document.getElementById("display").innerHTML=(" Your name is " + male[2] + " you were born on " + week[2]);
 } else if (Math.ceil(weekday == 3 ) {
-  document.getElementById("display").innerHTML" Your name is" + male[3] + " you were born on " + week[3]);
+  document.getElementById("display").innerHTML=(" Your name is" + male[3] + " you were born on " + week[3]);
 } else if (Math.ceil(weekday == 4 ) {
-  document.getElementById("display").innerHTML" Your name is " + male[4] + " you were born on " + week[4]);
+  document.getElementById("display").innerHTML=(" Your name is " + male[4] + " you were born on " + week[4]);
 }else if (Math.ceil(weekday == 5 ) {
- document.getElementById("display").innerHTML" Your name is " + male[5] + " you were born on " + week[5]);
+ document.getElementById("display").innerHTML=(" Your name is " + male[5] + " you were born on " + week[5]);
 }else if(Math.ceil(weekday == 6 );{
-  document.getElementById("display").innerHTML(" Your name is " + male[6] + " you were born on " + week[6]);
+  document.getElementById("display").innerHTML=(" Your name is " + male[6] + " you were born on " + week[6]);
 }
 break;
 case "female":
  if (Math.ceil(weekday == 0 );{
-document.getElementById("display").innerHTML= " Your name is " + female[0] + " you were born on " + week[0]);
+document.getElementById("display").innerHTML=( " Your name is " + female[0] + " you were born on " + week[0]);
 } else if (Math.ceil(weekday == 1 ); {
- document.getElementById("display").innerHTML=" Your name is " + female[1] + " you were born on " + week[1]);
+ document.getElementById("display").innerHTML=(" Your name is " + female[1] + " you were born on " + week[1]);
 } else if  (Math.ceil(weekday == 2 );{
- document.getElementById("display").innerHTML" Your name is " + female[2] + " you were born on " + week[2]);
+ document.getElementById("display").innerHTML=(" Your name is " + female[2] + " you were born on " + week[2]);
 } else if (Math.ceil(weekday == 3 ) {
- document.getElementById("display").innerHTML" Your name is" + female[3] + " you were born on " + week[3]);
+ document.getElementById("display").innerHTML=(" Your name is" + female[3] + " you were born on " + week[3]);
 } else if (Math.ceil(weekday == 4 ) {
- document.getElementById("display").innerHTML" Your name is " + female[4] + " you were born on " + week[4]);
+ document.getElementById("display").innerHTML=(" Your name is " + female[4] + " you were born on " + week[4]);
 }else if (Math.ceil(weekday == 5) {
-document.getElementById("display").innerHTML" Your name is " + female[5] + " you were born on " + week[5]);
+document.getElementById("display").innerHTML=(" Your name is " + female[5] + " you were born on " + week[5]);
 }else if(Math.ceil(weekday ==6 );{
- document.getElementById("display").innerHTML(" Your name is " + female[6] + " you were born on " + week[6]);
+ document.getElementById("display").innerHTML=(" Your name is " + female[6] + " you were born on " + week[6]);
 }
 else {
   alert("imput data please")
