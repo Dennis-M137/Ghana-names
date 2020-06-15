@@ -9,6 +9,9 @@ Dennis-M137
 
 <img src="image/akam.jpg">
 
+x-special/nautilus-clipboard
+copy
+file:///home/dennis/kilimani/image/akam.png
 
 Set up instructions:
 Install Google chrome
