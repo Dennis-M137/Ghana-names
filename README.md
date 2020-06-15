@@ -1,27 +1,29 @@
 Application Name;
 Ghanaian Names
 
-Description
-The Application computes the day of the week you were born and outputs your respective name
+Description:
+The Application computes the day of the week you were born and outputs your respective name in akan naming sytem. This is unique for each Gender
 
 AUTHORS;
 Dennis-M137
 
-n
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to
-  Installation Requirements
-Install Google chrome
-Enable Javscript
+<img src="image/akam.jpg">
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-s
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
-Technologies Used
+
+Set up instructions:
+Install Google chrome
+Clone or download https://github.com/Dennis-M137/Ghana-names
+Unzip the file contents
+Enable Javscript on broswer
+
+Technologies Used:
  HTML
  JAVASCRIPT
  CSS
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+
+Open the Application and  Fill in your details to know your Akan name.
+
  License
 
 Copyright (c) {2020} MIT licence
