@@ -1,0 +1,9 @@
+h1 {
+  color: blue;
+}
+body {
+  background-color: #FAFAFA;
+  font-family: sans-serif;
+  background-clip: border-box;
+  background-position: center;
+  padding: 0 40px 40px 40px;
